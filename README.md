@@ -100,7 +100,6 @@ Projects involving Python, statistics, algorithms, and computational mathematics
 * 🐍 Python
 * 🗄️ SQL & Database Design
 * 🔌 REST APIs
-* 🐳 Docker
 * 🌐 Backend Development
 * 🧠 Software Architecture
 * 📊 Data Analysis
@@ -110,7 +109,7 @@ Projects involving Python, statistics, algorithms, and computational mathematics
 
 ## 🎯 Career Goals
 
-I’m currently looking for opportunities where I can apply my knowledge of **programming, mathematics, algorithms, and problem-solving** while continuing to develop as a software engineer.
+I’m currently looking for opportunities where I can apply my knowledge of **programming** while continuing to develop as a software engineer.
 
 My main interests are:
 
